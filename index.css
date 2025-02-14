@@ -192,9 +192,9 @@ body {
         height: 15px;
     }
 
-    .uno { left: 50px; top: 150px; }
-    .dos { left: 200px; top: 130px; }
-    .tres { left: 40px; top: 180px; }
-    .cuatro { left: 220px; top: 190px; }
-    .cinco { left: 100px; top: 160px; }
+    .uno { left: 50px; top: 100px; }
+    .dos { left: 200px; top: 90px; }
+    .tres { left: 40px; top: 130px; }
+    .cuatro { left: 220px; top: 140px; }
+    .cinco { left: 100px; top: 130px; }
 }
